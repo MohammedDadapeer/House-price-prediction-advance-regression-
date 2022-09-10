@@ -91,4 +91,3 @@ Here's a brief version of what you'll find in the data description file.
 - MoSold: Month Sold
 - YrSold: Year Sold
 - SaleType: Type of sale
-- SaleCondition: Condition of sale
